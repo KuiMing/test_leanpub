@@ -2,13 +2,24 @@ aaa chr test111
 bbb111
 teste 111how are you
 abacad ch11r test1
+again1
+aaa chr test1
+bbb
+teste how are you
+abacad chr test1
+>>>>>>> con
 bbbccc
 teste
 
 
 jfdl;sajf;sa1
 
+<<<<<<< HEAD
 I want to sleep......okok no problem XDDD
+=======
+
+I want to sleep......
+>>>>>>> refs/remotes/origin/master
 
 hahahahahahahaha 
 to0000
@@ -16,4 +27,7 @@ to0000
 GITBOOK is awesome!
 
 try make conflict
+
+
+tujiofd
 
