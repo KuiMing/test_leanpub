@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+=======
+aaa chr test1
+bbb
+teste how are you
+abacad chr test1
+bbbccc
+teste
+>>>>>>> 32ab727378057006828d78b92b6a337858f83a85
 
-
+====================
 
 hahahahahahahaha 
 too much congflicts!!!
