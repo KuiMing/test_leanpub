@@ -3,6 +3,6 @@
         "facebook"
     ],
     "pluginsConfig": {"facebook": {
-        "appKey": {{1406114136300290}}
+        "appKey": 1406114136300290
     }}
 }
