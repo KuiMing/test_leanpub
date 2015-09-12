@@ -1,5 +1,8 @@
-aaa chr test1
-bbb
+abacad chr test1
+bbbccc
 teste
 
-jfdl;sajf;sa1
+GITBOOK is awesome!
+
+try make conflict
+like this
