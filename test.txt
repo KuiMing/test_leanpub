@@ -1,5 +1,3 @@
-what the drag and drop
-
 aaa chr test111
 bbb111
 teste 111how are you
@@ -12,19 +10,13 @@ abacad chr test1
 >>>>>>> con
 bbbccc
 teste
-fdsadafdsafdafdafdsafhoh8jfdf8ol我難過
+
+ufffff
 
 jfdl;sajf;sa1
 
-<<<<<<< HEAD
-I want to sleep......okok no problem XDDD
-=======
-
-lunch time!!
-
 
 I want to sleep......
->>>>>>> refs/remotes/origin/master
 
 hahahahahahahaha 
 to0000
